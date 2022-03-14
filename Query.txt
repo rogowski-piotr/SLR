@@ -1,0 +1,25 @@
+Benchmark
+Benchmarking
+System Benchmarking
+Performance Measure
+Comparison
+
+Software Engineering
+Software
+
+Microservices
+Service Oriented Architecture
+
+Monolith
+
+Software Architecture
+
+Q1
+(("Benchmark" OR "Benchmarking" OR "System Benchmarking" OR "Performance Measure") AND ("Software Engineering" OR "Software") AND ("Microservices" OR "Service Oriented Architecture" OR "Software Architecture"))
+
+Q2
+(("Benchmark" OR "Benchmarking" OR "System Benchmarking" OR "Performance Measure" OR "Comparison") AND ("Software Engineering" OR "Software") AND ("Microservices" OR "Service Oriented Architecture") AND ("Monolith"))
+
+Q3
+(("Benchmark" OR "Benchmarking" OR "System Benchmarking" OR "Performance Measure" OR "Comparison") AND ("Software Engineering" OR "Software") AND ("Cloud" OR "Cloud Service") AND ("Microservices" OR "Service Oriented Architecture" OR "Software Architecture"))
+
